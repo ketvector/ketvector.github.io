@@ -7,4 +7,4 @@ tags = [
 ]
 +++
 
-{{< embed-pdf url="../../101.pdf" >}}
+This article is currently available as a PDF [here](../101.pdf).
