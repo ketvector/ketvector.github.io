@@ -7,4 +7,4 @@ tags = [
 ]
 +++
 
-{{< embed-pdf url="../101.pdf" >}}
+{{< embed-pdf url="../../101.pdf" >}}
