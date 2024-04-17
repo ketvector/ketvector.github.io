@@ -20,11 +20,11 @@ I started with Quantum Mechanics. I used Leonard Suskinds book and the Nielsen &
 
 After this I was upto several things including:
 
-- I  wanted to learn [Haskell] (https://github.com/ketvector/haskell-practice) so I spent some time doing that. And jumped a bit into Category Theory during this same period.
+- I  wanted to learn [Haskell](https://github.com/ketvector/haskell-practice) so I spent some time doing that. And jumped a bit into Category Theory during this same period.
 
 - I read about Phillioshophy and Psychology and was influenced/intrigued/confounded/ by the works of Carl Jung, Bernardo Kastrup, Thomas Nagel, Nick Bostrom, Kant, Spinoza and others. Perhaps I will write more about this in some time.
 
-- I self taught myself the basics of generative AI - transformers, diffusion models, bayesian reasoning etc. Spent some time writing ML code as well. [Some Code] (https://github.com/ketvector/ml-practice)
+- I self taught myself the basics of generative AI - transformers, diffusion models, bayesian reasoning etc. Spent some time writing ML code as well. [Some Code](https://github.com/ketvector/ml-practice)
 
 - Travelled a bit around India. I visited the Andaman Islands, Varanasi, Bhabhua (Bihar), Lucknow, Delhi, Agra, Chikmagalur, Satara & Harda during this period.
 
