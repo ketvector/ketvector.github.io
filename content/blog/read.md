@@ -1,6 +1,9 @@
 +++
 title = "Some books I have read with very short reviews"
-tags = []
+tags = [
+    "books",
+    "phillosophy"
+]
 date = "2024-06-13"
 draft=false
 +++
