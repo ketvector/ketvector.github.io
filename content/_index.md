@@ -12,8 +12,9 @@ I share my thoughts on physics, programming, phillosophy and more on this site a
 
 You can connect with me my social profiles.
 
-- [linkedin](https://www.linkedin.com/in/neeraj-kumar-mnit/) 
 - [github](https://github.com/ketvector)
+- [stack exchange](https://stackexchange.com/users/6446534/excelsior-07?tab=accounts)
+- [linkedin](https://www.linkedin.com/in/neeraj-kumar-mnit/) 
 - [twitter](https://twitter.com/maybeNeeraj)
 
 ---
