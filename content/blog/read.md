@@ -1,6 +1,8 @@
 +++
 title = "Some books I have read with very short reviews"
 tags = []
+date = "2024-06-13"
+draft=false
 +++
 
 A roughly reverse chronological (latest first) list of books I have read and would like to share about. 

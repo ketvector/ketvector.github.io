@@ -1,6 +1,8 @@
 +++
 title = "Books I want to read"
 tags = []
+draft=false
+date = "2024-06-13"
 +++
 
 

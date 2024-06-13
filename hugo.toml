@@ -16,6 +16,7 @@ enableRobotsTXT = true
 
 [permalinks]
   blog = "/blog/:title"
+  resources = "/resources/:title"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
