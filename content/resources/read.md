@@ -3,7 +3,7 @@ title = "Some books I have read with very short reviews"
 tags = []
 +++
 
-A roughly reverse chronological (latest first) list of books I have read and would like to share about. 
+A roughly reverse chronological (latest first) list of books I have read in the last few years with short reviews. I've liked some these, while others may not have made an impact. But one can use it as coversation starter if nothing else :) 
 
 - [Jung : A very short intoduction ,by Anthony Stevens](https://www.goodreads.com/book/show/297554.Jung)
 
