@@ -1,6 +1,6 @@
 
 +++
-title = "The Generalist Argument: On Physics and Programming with types"
+title = "The generalist argument: on physics and programming with types"
 date = "2022-01-22"
 tags = [
     "functional-programming",
