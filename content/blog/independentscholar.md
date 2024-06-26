@@ -21,7 +21,7 @@ I started with Quantum Mechanics. I used Leonard Suskinds book and the Nielsen &
 
 - I  wanted to learn haskell so I spent some time doing that. And jumped a bit into Category Theory during this same period. You can find some of [my haskell code here](https://github.com/ketvector/haskell-practice)
 
-- I read about Phillioshophy and Psychology and was influenced/intrigued/confounded/ by the works of Carl Jung, Bernardo Kastrup, Thomas Nagel, Nick Bostrom, Kant, Spinoza and others. A brief peek into this journey could be found in the [books here](https://ketvector.github.io/blog/some-books-i-have-read-with-very-short-reviews/)
+- I read about philosophy and psychology and was influenced/intrigued/confounded/ by the works of Carl Jung, Bernardo Kastrup, Thomas Nagel, Nick Bostrom, Kant, Spinoza and others. A brief peek into this journey could be found in the [books here](https://ketvector.github.io/blog/some-books-i-have-read-with-very-short-reviews/)
 
 - I self taught myself the basics of generative AI - transformers, diffusion models, bayesian reasoning etc. Spent some time writing ML code as well. Here's my project on [grading essays by finetuning BERT](https://github.com/ketvector/essay_grading). I also taught myself Reinforcement Learning which I really enjoyed. I [trained a simple agent with policy gradient](https://github.com/ketvector/rl). To learn the basics of ML, I implemented some of the algorithms from scratch [here](https://github.com/ketvector/ml-practice), although the quality on that one is not great.
 
