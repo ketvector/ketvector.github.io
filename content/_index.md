@@ -8,6 +8,7 @@ Professionally,
 - In the past I have also worked as Backend Developer and Mobile Applications Developer. 
 - I have a bachelor's degree from NIT Jaipur and more than 5 years of experience in the industry.
 
+You can find my [resume here](https://neeraj-personal-public.s3.ap-south-1.amazonaws.com/neeraj_resume_8_jul.pdf)
 
 ---
 
