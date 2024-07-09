@@ -7,4 +7,4 @@ tags = [
 ]
 +++
 
-This article is currently available as a PDF [here](../101.pdf).
+This article is currently available as a PDF [here](https://drive.google.com/file/d/1A3AWtlZFWzz1Fal_W5_780zdtouJnDod/view).
